@@ -12,4 +12,4 @@ The aim of the project was to consolidate knowledge in the field of canvas and r
 - HTML Canvas
 
 ## Screenshot
-![Printscreen](src/images/screenshot.png)
+![Printscreen](/images/screenshot.png)
